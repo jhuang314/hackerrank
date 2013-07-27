@@ -1,0 +1,4 @@
+T = int(raw_input())
+
+for case in range(T):
+    

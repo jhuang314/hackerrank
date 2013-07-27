@@ -1,0 +1,5 @@
+
+with open('corpus.txt', 'r') as f:
+    text = f.readlines()
+
+print text[:5]

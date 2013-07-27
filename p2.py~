@@ -1,0 +1,3 @@
+n = int(raw_input())
+
+array = raw_input().split(' ')
